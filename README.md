@@ -1,63 +1,72 @@
-# 👋 Hi there, I'm **Fitahiana**!
+<h1 align="center">Hi 👋, I'm Fitahiana</h1>
+<h3 align="center">💻 Web Developer | 🎮 Game Dev Enthusiast</h3>
 
-🚀 Passionate Full-Stack Developer specialized in **Web Development** and enthusiastic about **Game Development**.  
-🎮 I love turning ideas into interactive digital experiences and always aim to deliver clean, efficient, and scalable code.  
-🏢 Currently working on challenging real-world solutions and enterprise-level systems in a collaborative environment.
+<p align="center">
+🚀 Passionate about crafting modern web applications and exploring the world of game development.  
+🏢 Currently working on enterprise-level software solutions with scalable architectures and elegant interfaces.
+</p>
 
 ---
 
 ## 🛠️ Languages & Frameworks
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+</p>
 
 ---
 
 ## 🗄️ Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+</p>
 
 ---
 
 ## 🧰 Tools & Debuggers
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLens](https://img.shields.io/badge/GitLens-007ACC?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![WAMP](https://img.shields.io/badge/WAMP-FF4088?style=for-the-badge&logo=apache&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
-![Microsoft Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/wampserver.png" height="40" alt="WAMP" />
+  <img src="https://img.icons8.com/color/48/xampp.png" height="40" alt="XAMPP" />
+  <img src="https://img.icons8.com/color/48/visual-studio.png" height="40" alt="Visual Studio" />
+</p>
 
 ---
 
 ## 💼 What I'm working on
 
-- 🚀 Building modern **web applications** with cutting-edge technologies to solve real-world business challenges.
-- 🧩 Contributing to **enterprise-level systems** that support operations in large organizations.
-- 🎮 Exploring **game development** as a creative outlet — always pushing boundaries with interactivity and performance.
-- 🛠️ Developing and maintaining **scalable back-end architectures** and **responsive front-end interfaces**.
+- ⚙️ Designing & developing web applications with clean and scalable architecture.
+- 🧠 Collaborating on enterprise projects in large companies with agile methodologies.
+- 🎮 Experimenting with game engines and mechanics to create immersive gaming experiences.
+- 🌐 Exploring full-stack technologies to build better tools and user experiences.
 
 ---
 
 ## 📊 GitHub Stats
 
-> 📌 Tu peux activer les statistiques avec ce code en remplaçant `"Fitahiana"` par ton pseudo GitHub :
-
-![Fitahiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fitahiana&show_icons=true&theme=tokyonight&hide=prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fitahiana&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fitahiana&show_icons=true&theme=tokyonight&hide=prs" alt="Fitahiana GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fitahiana&layout=compact&theme=tokyonight" alt="Fitahiana Top Langs" />
+</p>
 
 ---
 
 ## 🔗 Let's Connect
 
-📫 Feel free to reach out or collaborate — I'm always open to new ideas and challenges!
-
+<p align="center">
+📬 Feel free to collaborate or reach out — open to exciting new ideas and challenges!
+</p>
