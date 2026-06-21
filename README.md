@@ -65,13 +65,16 @@
 
 ## 📊 GitHub Stats
 
-<!-- Statistiques Générales -->
-![Mes stats GitHub](https://vercel.app)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fitahiana66&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fitahiana66&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
 
-<!-- Langages les plus utilisés -->
-![Mes langages](https://vercel.app)
-dev)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fitahiana66&theme=redical&hide_border=true" width="95%"/>
+</p>
 
+---
 
 ## 🔗 Let's Connect
 
