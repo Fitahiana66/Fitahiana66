@@ -65,10 +65,12 @@
 
 ## 📊 GitHub Stats
 
+<!-- Statistiques Générales -->
 ![Mes stats GitHub](https://vercel.app)
-![Mes langages les plus utilisés](https://vercel.app)
-![Ma régularité de code](https://herokuapp.com)
-[![Mes compétences](https://skillicons.dev)](https://skillicons.dev)
+
+<!-- Langages les plus utilisés -->
+![Mes langages](https://vercel.app)
+dev)
 
 
 ## 🔗 Let's Connect
