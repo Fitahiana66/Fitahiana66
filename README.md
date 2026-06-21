@@ -65,13 +65,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fitahiana&show_icons=true&theme=tokyonight&hide=prs" alt="Fitahiana GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fitahiana&layout=compact&theme=tokyonight" alt="Fitahiana Top Langs" />
-</p>
+![Mes stats GitHub](https://vercel.app)
+![Mes langages les plus utilisés](https://vercel.app)
+![Ma régularité de code](https://herokuapp.com)
+[![Mes compétences](https://skillicons.dev)](https://skillicons.dev)
 
----
 
 ## 🔗 Let's Connect
 
