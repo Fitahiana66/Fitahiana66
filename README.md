@@ -16,10 +16,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+  <img src="https://jsdelivr.net" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40"/>
+  <img src="https://jsdelivr.net" height="40"/>
 </p>
 
 ---
@@ -65,13 +67,12 @@
 
 ## 📊 GitHub Stats
 
-<!-- Statistiques Générales -->
-![Mes stats GitHub](https://vercel.app)
+<p align="center">
+  <img src="https://vercel.app" alt="Mes stats GitHub" height="180" />
+  <img src="https://vercel.app" alt="Mes langages" height="180" />
+</p>
 
-<!-- Langages les plus utilisés -->
-![Mes langages](https://vercel.app)
-dev)
-
+---
 
 ## 🔗 Let's Connect
 
